@@ -5,7 +5,8 @@
 <p id="description">This project aims to predict AQI (PM 2.5) from several physical factors. The identified ML problem is the regression problem statement wherein we predict a numerical value. Several Models where used and the best result was achived with XGBoostRegressor+GridSearchCV. various models are used like Linear &amp; Lasso Regression DecisionTree RegressorRandom forest Regrssor &amp; XGBoost Regressor. An EDA is also peroformed on the data as well as feature importance.</p>
 
 
-
+### Deployed on streamlit
+https://air-quality-predict.streamlit.app/
 
 ## Data
 The data has been webscrapped from 
