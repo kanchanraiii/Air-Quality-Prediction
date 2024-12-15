@@ -5,7 +5,7 @@ import pickle
 import numpy as np
 
 # Load the model
-model = joblib.load(os.path.join('D:\\', 'Projects', 'AQI', 'Air-Quality-Prediction', 'xgb_best_model.joblib'))
+model = joblib.load(f'{working_dir}/xgb_best_model.joblib', 'rb')
 
 
 # Set page config
