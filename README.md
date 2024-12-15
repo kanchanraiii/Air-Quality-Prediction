@@ -11,7 +11,7 @@
 The data has been webscrapped from 
 https://en.tutiempo.net/
 
-Data is from 2013-2015 for most days in the month
+Data is from 2013-2018 for most days in the month
 
 ## Project Findings
 <img width="478" alt="image" src="https://github.com/kanchanrai7/Air-Quality-Prediction/assets/114416916/3e44b563-0aba-48e8-97fe-56282f40d7d2">
