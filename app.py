@@ -5,6 +5,7 @@ import pickle
 import numpy as np
 
 # Load the model
+working_dir = os.path.dirname(os.path.abspath(__file__))
 model = joblib.load(f'{working_dir}/xgb_best_model.joblib', 'rb')
 
 
